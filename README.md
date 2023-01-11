@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Mehmet Ali
 I'm a Computer Programmer From İskenderun,Hatay
-
+I'm a student at Atatürk University
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning C#, SQL
