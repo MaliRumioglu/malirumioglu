@@ -12,4 +12,6 @@ Here are some ideas to get you started:
 
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-ali-rumio%C4%9Flu-434505214/)
 [![instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/malirumi05/)
+[![twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=white)](https://mobile.twitter.com/ali_rumioglu)
+
 
