@@ -3,7 +3,7 @@ I'm a Computer Programmer From İskenderun,Hatay
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning C#, SQL
+- 🌱 I’m currently learning ##### C#, SQL
 - 🤔 I’m looking for help with back-end development
 - 📫 How to reach me: mehmetali@rumioglu.com
 - ⚡ Fun fact: I'm 18 years old.
