@@ -5,7 +5,7 @@ I'm a student at Atatürk University from Erzurum
 - 🌱 I’m currently learning C#, SQL
 - 🤔 I’m looking for help with back-end development
 - 📫 How to reach me: mehmetali@rumioglu.com
-- ⚡ Fun fact: I'm just 18 years old.
+- ⚡ Fun fact: 
 
 ### Contact with me:
 
